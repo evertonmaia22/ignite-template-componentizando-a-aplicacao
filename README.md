@@ -1,10 +1,10 @@
 
 <h1>Challenge 02 Trail ReactJs Rocketseat</h1>
 
-Componentization within React;
+• Componentization within React;
 
-State sharing;
+• State sharing;
 
-Used typescript, creating interface for each Component;
+• Used typescript, creating interface for each Component;
 
-Elevating App.tsx state to child element Sidebar.tsx and Content.tsx;
+• Elevating App.tsx state to child element Sidebar.tsx and Content.tsx;
